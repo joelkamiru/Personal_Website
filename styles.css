@@ -1,0 +1,33 @@
+header{
+    background-color: #8d8787;
+    padding: 20px;
+    text-align: center;
+    color: blue;
+}
+
+.projects{
+    border: 10px solid black;
+    border-radius: 10px;
+    background-color: rgb(42, 241, 175);
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(0, 128, 19);
+}
+nav{
+    background-color: #9cb6d4;
+    padding: 10px;
+    text-align: center;
+}
+.About{
+    background-color: #f29fec;
+    padding: 20px;
+    margin: 20px;
+    border: solid 3px black;
+}
+p{
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    color: grey;
+}
