@@ -1,14 +1,17 @@
 header{
-    background-color: #8d8787;
+    background-color: #6bebf4;
     padding: 20px;
     text-align: center;
     color: blue;
+    margin: 20px;
 }
 
-.projects{
-    border: 10px solid black;
+.Projects{
+    border: 3px solid black;
     border-radius: 10px;
     background-color: rgb(42, 241, 175);
+    padding: 20px;
+    margin: 20px;
 }
 h2{
     font-family: 'Times New Roman', Times, serif;
@@ -16,9 +19,10 @@ h2{
     color: rgb(0, 128, 19);
 }
 nav{
-    background-color: #9cb6d4;
+    background-color: #508acb;
     padding: 10px;
     text-align: center;
+    margin: 20px;
 }
 .About{
     background-color: #f29fec;
@@ -30,4 +34,14 @@ p{
     font-family: 'Arial', sans-serif;
     font-size: 18px;
     color: grey;
+}
+h3{
+    font-family: 'calibri', sans-serif;
+    font-size: 25px;
+    color: rgb(30, 32, 31);
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(36, 30, 30);
 }
